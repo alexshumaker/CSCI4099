@@ -1,0 +1,3 @@
+* Vending machine must accept quarters and single dollar bills
+* Vending machine will have 3, 12oz drinks and 3 snacks
+* All items will cost 75 cents per-item
